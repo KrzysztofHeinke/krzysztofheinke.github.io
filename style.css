@@ -1,0 +1,17 @@
+<div id="card-data">
+  <div id="pan-div">
+      <p id="pan-p">
+          Card number: <span id="pan-value">1234 4567 1234 4161</span>
+      </p>
+  </div>
+  <div id="expiry-div">
+      <p id="expiry-p">
+          Expiry date: <span id="expiry-value">02/28</span>
+      </p>
+  </div>
+  <div id="cvv-div">
+      <p id="cvv-p">
+          CVV: <span id="cvv-value">001</span>
+      </p>
+  </div>
+</div>
